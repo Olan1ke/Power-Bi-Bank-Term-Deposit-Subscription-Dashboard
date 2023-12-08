@@ -30,7 +30,7 @@ In this Power Bi Task, We were Provided with a Dataset called BankFull in CSV Fo
 1. what is the number of subscribers by there education?
 2. Subscriber By Marital Stautus.
 3. Subscribers By default and loan.
-4. The Subscriber Month Trend
+4. The Subscriber Month Trend.
 
 Dashboard 
 ![](Bank_term_deposit_subscription_dashboard.png)
